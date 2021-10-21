@@ -30,3 +30,5 @@ function checkPalindome(word){
     }
                          
 }
+
+this.checkPalindrome("madam")
